@@ -14,4 +14,5 @@ public class Trade {
     private BigDecimal price;
     private BigDecimal totalAmount;
     private LocalDateTime tradeTime;
+    private String pairName;
 }

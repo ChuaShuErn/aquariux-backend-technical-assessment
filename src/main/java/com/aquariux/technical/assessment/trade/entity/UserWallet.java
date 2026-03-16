@@ -11,4 +11,5 @@ public class UserWallet {
     private Long symbolId;
     private BigDecimal balance;
     private LocalDateTime updatedAt;
+    private Long version;
 }
